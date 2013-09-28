@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_01f3ca74",
+        "filename": "res/values/strings_map.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T02:30:19Z",
+      "side": 1,
+      "message": "Could you also remove the surrounding double quotes?",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_a1e77eab",
+        "filename": "res/values/strings_sap.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T02:30:19Z",
+      "side": 1,
+      "message": "\u003cstring name\u003d\"sap_notif_message\"\u003eTouch to connect to \\\u0027\u003cxliff:g id\u003d\"device_name\"\u003e%1$s\u003c/xliff:g\u003e\\\u0027.\u003c/string\u003e",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_6102d640",
+        "filename": "res/values/strings_sap.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T02:30:19Z",
+      "side": 1,
+      "message": "Please remove the surrounding double quotes here too",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
