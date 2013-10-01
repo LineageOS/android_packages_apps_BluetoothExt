@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da37b569_16bb0ac6",
+        "filename": "res/values/strings_map.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-10-01T02:09:29Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "da37b569_01f3ca74",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da37b569_a1e77eab",
         "filename": "res/values/strings_sap.xml",
         "patchSetId": 2
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "da37b569_96c71a45",
+        "filename": "res/values/strings_sap.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-10-01T02:09:29Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "da37b569_a1e77eab",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da37b569_6102d640",
         "filename": "res/values/strings_sap.xml",
         "patchSetId": 2
@@ -47,6 +83,24 @@
       "writtenOn": "2013-09-28T02:30:19Z",
       "side": 1,
       "message": "Please remove the surrounding double quotes here too",
+      "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_b6afbe7c",
+        "filename": "res/values/strings_sap.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-10-01T02:09:29Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "da37b569_6102d640",
       "revId": "4dd912a1c78a9317d7eb5a6cfb4f382f36bc0b7e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
