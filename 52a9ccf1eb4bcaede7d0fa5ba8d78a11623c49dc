@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_8b8619b8",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-14T19:23:24Z",
+      "side": 1,
+      "message": "While you\u0027re at it, please change this to \u0027Don\u0027t ask again\u0027 to be consistent with the string in the settings app.",
+      "revId": "52a9ccf1eb4bcaede7d0fa5ba8d78a11623c49dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_4b9011ed",
+        "filename": "res/values/strings_ftp.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-14T19:23:24Z",
+      "side": 1,
+      "message": "\u0027Acception the connection from %1$s timed out\u0027?",
+      "revId": "52a9ccf1eb4bcaede7d0fa5ba8d78a11623c49dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_2b9345fc",
+        "filename": "res/values/strings_ftp.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-14T19:23:24Z",
+      "side": 1,
+      "message": "\u0027Authentication with %1$s timed out\u0027?",
+      "revId": "52a9ccf1eb4bcaede7d0fa5ba8d78a11623c49dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_0bc1a9e4",
+        "filename": "res/values/strings_map.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-14T19:23:24Z",
+      "side": 1,
+      "message": "Those two are copy-pasta. MAP is about message access, not phone folder access.",
+      "revId": "52a9ccf1eb4bcaede7d0fa5ba8d78a11623c49dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_ebbb1d74",
+        "filename": "res/values/strings_map.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-14T19:23:24Z",
+      "side": 1,
+      "message": "Like for FTP (should those be unified?)",
+      "revId": "52a9ccf1eb4bcaede7d0fa5ba8d78a11623c49dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
