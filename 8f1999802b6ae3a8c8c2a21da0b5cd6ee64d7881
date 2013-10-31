@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_584bfc59",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-10-31T10:36:31Z",
+      "side": 1,
+      "message": "Richiede l\u0027accesso.  E così anche sotto in vari punti.",
+      "revId": "8f1999802b6ae3a8c8c2a21da0b5cd6ee64d7881",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_b83ec0b6",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-10-31T10:36:31Z",
+      "side": 1,
+      "message": "Di nuovo",
+      "revId": "8f1999802b6ae3a8c8c2a21da0b5cd6ee64d7881",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_1874949a",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-10-31T10:36:31Z",
+      "side": 1,
+      "message": "Tocca",
+      "revId": "8f1999802b6ae3a8c8c2a21da0b5cd6ee64d7881",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
