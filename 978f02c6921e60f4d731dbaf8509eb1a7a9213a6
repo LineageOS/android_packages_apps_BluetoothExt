@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_48eebd23",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T22:56:14Z",
+      "side": 1,
+      "message": "sesijai",
+      "revId": "978f02c6921e60f4d731dbaf8509eb1a7a9213a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_e8f23106",
+        "filename": "res/values-lt/strings_ftp.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T22:56:14Z",
+      "side": 1,
+      "message": "prieiga",
+      "revId": "978f02c6921e60f4d731dbaf8509eb1a7a9213a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_08f8c5e4",
+        "filename": "res/values-lt/strings_ftp.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T22:56:14Z",
+      "side": 1,
+      "message": "aplank?",
+      "revId": "978f02c6921e60f4d731dbaf8509eb1a7a9213a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
