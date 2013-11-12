@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_a84bd92a",
+        "filename": "res/values-da/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3386
+      },
+      "writtenOn": "2013-11-12T23:40:20Z",
+      "side": 1,
+      "message": "Think this should be \"Aktiv\"",
+      "revId": "0e041e50886401ae5bc179a3c283758f7fad13a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_c8488d30",
+        "filename": "res/values-da/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3386
+      },
+      "writtenOn": "2013-11-12T23:40:20Z",
+      "side": 1,
+      "message": "Think this should be \"Aktiv\"",
+      "revId": "0e041e50886401ae5bc179a3c283758f7fad13a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
