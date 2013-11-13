@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_6b1dbb65",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-13T06:38:51Z",
+      "side": 1,
+      "message": "Fixed some stuff. Could apply from here: http://paste.akmc.lt/view/90b585e6",
+      "revId": "edcbfedae53f19987759022d681f28b881c6929d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_ab13d35b",
+        "filename": "res/values-lt/strings_ftp.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-13T06:38:51Z",
+      "side": 1,
+      "message": "missing 1st variable:  \n\u003cstring name\u003d\"bluetooth_ftp_acceptance_dialog_text\"\u003e%1$s nor?t? gauti prieig? prie j?s? fail? ir apla\nnk?. Suteikti prieig? prie %2$s?\u003c/string\u003e",
+      "revId": "edcbfedae53f19987759022d681f28b881c6929d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_4b047714",
+        "filename": "res/values-lt/strings_map.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-13T06:38:51Z",
+      "side": 1,
+      "message": "missing 1 variable: \u003cstring name\u003d\"bluetooth_mas_acceptance_dialog_text\"\u003e%1$s nor?t? gauti prieig? prie j?s? pranešim?. Su\nteikti prieig? %2$s?\u003c/string\u003e",
+      "revId": "edcbfedae53f19987759022d681f28b881c6929d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_eb08eb2a",
+        "filename": "res/values-lt/strings_sap.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-13T06:38:51Z",
+      "side": 1,
+      "message": "missing 1st variable + translation corrected:\n\u003cstring name\u003d\"bluetooth_sap_acceptance_dialog_text\"\u003e%1$s nor?t? pasiekti j?s? SIM. Suteikti p\nrieig? %2$s?\u003c/string\u003e",
+      "revId": "edcbfedae53f19987759022d681f28b881c6929d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
