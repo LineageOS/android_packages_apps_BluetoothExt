@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_821da011",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-16T12:10:03Z",
+      "side": 1,
+      "message": "What happened here with the copyright notice?",
+      "revId": "dbcb7431eb8206c85ed192100ee29104a7f325d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
