@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_d2b924ee",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-26T06:13:56Z",
+      "side": 1,
+      "message": "v?l tas tavo \"d?l\"...",
+      "revId": "a75d8caca24c274d473756d376266f1ebb5c54b2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_f2bea8d3",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-26T06:13:56Z",
+      "side": 1,
+      "message": "prisijungtUM?TE prie...",
+      "revId": "a75d8caca24c274d473756d376266f1ebb5c54b2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_92b39c0a",
+        "filename": "res/values-lt/strings_map.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-26T06:13:56Z",
+      "side": 1,
+      "message": "pasiektUM?TE...\nnes kitaip \", kad\" nesigauna naudot.",
+      "revId": "a75d8caca24c274d473756d376266f1ebb5c54b2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
