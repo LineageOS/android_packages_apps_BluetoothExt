@@ -16,6 +16,24 @@
       "revId": "5ae427f38871435935b8c07180f2f9fe33cdc8e7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_460e4935",
+        "filename": "res/values-es/cm_translations.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2014-02-17T03:12:26Z",
+      "side": 1,
+      "message": "@Marco, it must be changed in Transifex. Waiting for it.",
+      "parentUuid": "fade3982_cb55441e",
+      "revId": "5ae427f38871435935b8c07180f2f9fe33cdc8e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
