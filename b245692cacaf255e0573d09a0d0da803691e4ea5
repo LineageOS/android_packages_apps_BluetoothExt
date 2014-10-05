@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_cc37e5ae",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-05T17:18:26Z",
+      "side": 1,
+      "message": "You forgot to change the secondarystorage variable that is being assigned.",
+      "revId": "b245692cacaf255e0573d09a0d0da803691e4ea5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_ac3a6996",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-05T17:18:26Z",
+      "side": 1,
+      "message": "Forgot here too.",
+      "revId": "b245692cacaf255e0573d09a0d0da803691e4ea5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
