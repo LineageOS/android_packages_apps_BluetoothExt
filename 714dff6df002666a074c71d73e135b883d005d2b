@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_acd3895e",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 214,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-05T17:13:33Z",
+      "side": 1,
+      "message": "secondaryStorage",
+      "revId": "714dff6df002666a074c71d73e135b883d005d2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_0ccb9da6",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-05T17:13:33Z",
+      "side": 1,
+      "message": "secondaryStorageList",
+      "revId": "714dff6df002666a074c71d73e135b883d005d2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_ccd08556",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-10-05T17:13:33Z",
+      "side": 1,
+      "message": "indentation",
+      "revId": "714dff6df002666a074c71d73e135b883d005d2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
