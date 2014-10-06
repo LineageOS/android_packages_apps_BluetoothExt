@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_6c8fb1cc",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-10-06T04:39:31Z",
+      "side": 1,
+      "message": "Is SECONDARY_STORAGE always set for devices?  If not, this will produce a NPE.  Might be best to just check secondaryStorage \u003d\u003d null.",
+      "revId": "5e17046b2cb58b95cbd67489359bba20f26c77db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
