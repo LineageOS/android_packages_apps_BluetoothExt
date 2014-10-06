@@ -70,6 +70,24 @@
       "revId": "5e17046b2cb58b95cbd67489359bba20f26c77db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_4c78f5c4",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 167
+      },
+      "writtenOn": "2014-10-06T05:24:41Z",
+      "side": 1,
+      "message": "Yes, I thought about that after I posted my comment.\nThanks.",
+      "parentUuid": "7a1b2928_cc636519",
+      "revId": "5e17046b2cb58b95cbd67489359bba20f26c77db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
