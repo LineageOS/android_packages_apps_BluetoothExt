@@ -52,6 +52,24 @@
       "revId": "5e17046b2cb58b95cbd67489359bba20f26c77db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_cc636519",
+        "filename": "src/org/codeaurora/bluetooth/ftp/BluetoothFtpObexServer.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-10-06T05:17:17Z",
+      "side": 1,
+      "message": "Also, other framework code using this environment variable checks for null.  That would indicate it\u0027s not required to be set.  Check for null.",
+      "parentUuid": "7a1b2928_2cac9934",
+      "revId": "5e17046b2cb58b95cbd67489359bba20f26c77db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
