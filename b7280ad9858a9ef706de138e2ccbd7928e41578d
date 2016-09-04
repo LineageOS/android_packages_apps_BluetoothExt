@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_67b54f31",
+        "filename": "hidtestapp/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-09-04T12:09:20Z",
+      "side": 1,
+      "message": "Why does it get built if it\u0027s optional?",
+      "range": {
+        "startLine": 5,
+        "startChar": 21,
+        "endLine": 5,
+        "endChar": 29
+      },
+      "revId": "b7280ad9858a9ef706de138e2ccbd7928e41578d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
