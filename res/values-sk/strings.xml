@@ -21,7 +21,7 @@
   <string name="defaultname">Sada do auta</string>
   <!-- Do not translate. android:process of this application. -->
   <!-- Bluetooth FTP or MAP permission Alert Activity checkbox text [CHAR LIMIT=none] -->
-  <string name="bluetooth_remember_choice">Nepýtať sa znovu</string>
+  <string name="bluetooth_remember_choice">Don\'t ask again</string>
   <string name="acceptance_timeout_message">Prijatie pripojenia od %1$s vypršalo</string>
   <string name="authentication_timeout_message">Overenie s %1$s vypršalo</string>
   <!-- Notification message when a Bluetooth device wants to pair with us -->
