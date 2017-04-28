@@ -31,10 +31,10 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ftp_session_key_dialog_title">Escribi clave de sesión pa %1$s</string>
-  <string name="ftp_session_key_dialog_header">Necesítase la clave de sesión de Bluetooth</string>
+  <string name="ftp_session_key_dialog_title">Teclexa la clave de sesión pa %1$s</string>
+  <string name="ftp_session_key_dialog_header">Ríquese la clave de sesión Bluetooth</string>
   <!-- Notification title when a Bluetooth device wants to pair with us -->
-  <string name="ftp_notif_title">Solicitú d\'accesu pa FTP</string>
+  <string name="ftp_notif_title">Solicitú de clave de sesión pa FTP</string>
   <!--Notification Title for ACTIVE SESSION -->
   <string name="ftp_notif_active_session">Sesión activa de FTP Bluetooth</string>
   <!--Notification message for ACTIVE SESSION -->
@@ -42,5 +42,5 @@
   <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
   <string name="bluetooth_ftp_request">Solicitú FTP</string>
   <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s quier acceder a los tos ficheros y carpetes. ¿Permitir accesu a %2$s?</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">A %1$s prestaría-y acceder a los tos ficheros y carpetes. ¿Dar accesu a %2$s?</string>
 </resources>
