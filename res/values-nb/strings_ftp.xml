@@ -42,5 +42,5 @@
   <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
   <string name="bluetooth_ftp_request">FTP-forespørsel</string>
   <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s Vil ha tilgang til filene og mappene dine. Gi tilgang til %2$s?</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s vil ha tilgang til filene og mappene dine. Gi tilgang til %2$s?</string>
 </resources>
