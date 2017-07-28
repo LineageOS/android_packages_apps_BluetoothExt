@@ -42,5 +42,5 @@
   <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
   <string name="bluetooth_ftp_request">FTP isteği</string>
   <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s klasörlerinize ve dosyalarınıza ulaşmak istiyor. %2$s için izin verecek misiniz?</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s klasörlerinize ve dosyalarınıza erişmek istiyor. %2$s için erişim izin verecek misiniz?</string>
 </resources>
