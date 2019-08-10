@@ -31,12 +31,8 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!--Notification Title for ACTIVE SESSION -->
-  <string name="map_notif_active_session">Seancë aktive e Bluetooth MAP</string>
-  <!--Notification message for ACTIVE SESSION -->
-  <string name="map_notif_connected">Bluetooth-i ka akses te mesazhet e \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
-  <!-- Activity label of BluetoothMasPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <string name="bluetooth_mas_request">Kërkesë për aksesimin e mesazheve</string>
-  <!-- Bluetooth MAS permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_mas_acceptance_dialog_text">%1$s kërkon të aksesojë mesazhet e tua. Do që t\'i lejosh akses %2$s?</string>
+    <string name="map_notif_active_session">Seancë aktive e Bluetooth MAP</string>
+    <string name="map_notif_connected">Bluetooth-i ka akses te mesazhet e \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
+    <string name="bluetooth_mas_request">Kërkesë për aksesimin e mesazheve</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s kërkon të aksesojë mesazhet e tua. Do që t\'i lejosh akses %2$s?</string>
 </resources>

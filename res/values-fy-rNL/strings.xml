@@ -17,7 +17,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Do not translate. android:process of this application. -->
-  <!-- Bluetooth FTP or MAP permission Alert Activity checkbox text [CHAR LIMIT=none] -->
-  <!-- Notification message when a Bluetooth device wants to pair with us -->
+    <string name="app_name">Bluetooth-útwreidingen</string>
+    <string name="defaultname">Carkit</string>
+    <string name="bluetooth_remember_choice">Net mear freegje</string>
+    <string name="acceptance_timeout_message">Der is in time-out bard foar it akseptearjen fan de ferbining mei %1$s</string>
+    <string name="authentication_timeout_message">Der is in time-out bard foar it autentisearjen mei %1$s</string>
+    <string name="notif_ticker">Bluetooth-ferbiningsfersyk</string>
+    <string name="notif_message">Tik om ferbining te meitsjen mei \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
 </resources>

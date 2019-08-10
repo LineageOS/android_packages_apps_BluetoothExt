@@ -31,9 +31,5 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification title when a Bluetooth device wants to pair with us -->
-  <!--Notification Title for ACTIVE SESSION -->
-  <!--Notification message for ACTIVE SESSION -->
-  <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s vill fá aðgang að skránum þínum og möppum. Heimila aðgang að %2$s?</string>
 </resources>

@@ -31,9 +31,11 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Notification title when a Bluetooth device wants to pair with us -->
-  <!--Notification Title for ACTIVE SESSION -->
-  <!--Notification message for ACTIVE SESSION -->
-  <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
+    <string name="ftp_session_key_dialog_title">Typ de sesjekaai foar %1$s</string>
+    <string name="ftp_session_key_dialog_header">Bluetooth-sesjekaai fereaske</string>
+    <string name="ftp_notif_title">Sesjekaaifersyk foar FTP</string>
+    <string name="ftp_notif_active_session">Aktive Bluetooth-FTP-sesje</string>
+    <string name="ftp_notif_connected">Bluetooth-bestânsoerdrachttagong ta \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
+    <string name="bluetooth_ftp_request">FTP-fersyk</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s wol tagong ta jo bestannen en mappen. Tagong ferliene oan %2$s?</string>
 </resources>

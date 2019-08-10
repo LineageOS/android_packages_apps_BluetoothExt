@@ -31,8 +31,6 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Activity label of BluetoothSapPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <string name="bluetooth_sap_request">Solicitú SAP</string>
-  <!-- Bluetooth SAP permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_sap_acceptance_dialog_text">A %1$s prestaría-y acceder a la to tarxeta SIM. ¿Dar accesu a %2$s?</string>
+    <string name="bluetooth_sap_request">Solicitú SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">A %1$s prestaría-y acceder a la to tarxeta SIM. ¿Dar accesu a %2$s?</string>
 </resources>

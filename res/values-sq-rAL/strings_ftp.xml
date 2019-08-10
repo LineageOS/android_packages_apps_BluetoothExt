@@ -31,16 +31,11 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ftp_session_key_dialog_title">Shkruaj çelësin e seancës për %1$s</string>
-  <string name="ftp_session_key_dialog_header">Nevojitet çelesi i seancës Bluetooth</string>
-  <!-- Notification title when a Bluetooth device wants to pair with us -->
-  <string name="ftp_notif_title">Kërkesë për çelës seance për FTP</string>
-  <!--Notification Title for ACTIVE SESSION -->
-  <string name="ftp_notif_active_session">Seancë aktive e Bluetooth FTP</string>
-  <!--Notification message for ACTIVE SESSION -->
-  <string name="ftp_notif_connected">Akses për transferimin e skedarëve me Bluetooth te \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
-  <!-- Activity label of BluetoothFtpPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <string name="bluetooth_ftp_request">Kërkesë FTP</string>
-  <!-- Bluetooth FTP permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s kërkon të aksesojë skedarët dhe dosjet e tua. Do që t\'i lejosh akses %2$s?</string>
+    <string name="ftp_session_key_dialog_title">Shkruaj çelësin e seancës për %1$s</string>
+    <string name="ftp_session_key_dialog_header">Nevojitet çelesi i seancës Bluetooth</string>
+    <string name="ftp_notif_title">Kërkesë për çelës seance për FTP</string>
+    <string name="ftp_notif_active_session">Seancë aktive e Bluetooth FTP</string>
+    <string name="ftp_notif_connected">Akses për transferimin e skedarëve me Bluetooth te \'<xliff:g id="device_name">%1$s</xliff:g>\'.</string>
+    <string name="bluetooth_ftp_request">Kërkesë FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s kërkon të aksesojë skedarët dhe dosjet e tua. Do që t\'i lejosh akses %2$s?</string>
 </resources>

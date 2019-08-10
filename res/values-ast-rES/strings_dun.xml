@@ -31,8 +31,6 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Activity label of BluetoothDunPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-  <string name="bluetooth_dun_request">Solicitú DUN</string>
-  <!-- Bluetooth DUN permission Alert Activity text [CHAR LIMIT=none] -->
-  <string name="bluetooth_dun_acceptance_dialog_text">A %1$s prestaría-y usar DUN. ¿Dar accesu a %2$s?</string>
+    <string name="bluetooth_dun_request">Solicitú DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">A %1$s prestaría-y usar DUN. ¿Dar accesu a %2$s?</string>
 </resources>
